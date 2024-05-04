@@ -35,6 +35,8 @@ margin-left: 70px;
 }
 
 .second-div h1{
+    font-size:30px;
+    font-weight: 700;
  margin-left: 0px;
  margin-top:110px;
  padding-left: 20px;
@@ -180,3 +182,54 @@ height: 150px;
 }
 
 /* lower body design */
+
+.last-section{
+    display: flex;
+    justify-content: space-between;
+}
+
+.last-class{
+    width: 45%;
+}
+
+.last-class img{
+    width:450px;
+    height: 400px;
+    margin-bottom:60px;
+    margin-left:90px;
+}
+
+.last-pra {
+    font-size:25px;
+    margin-right: 170px;
+    font-weight:900;
+}
+
+.famedul{
+    color: gray;
+}
+
+.footer{
+    border-top: 7px solid;
+    text-align: center;
+    padding:50px;
+    background-color: black;
+}
+
+.footer p{
+    font-size: 19px;
+    color:#fff;
+    font-family:sans-serif;
+    font-weight:650;
+}
+
+.footer h1{
+color: aliceblue;
+}
+
+footer{
+    color: white;
+    text-align: center;
+    font-size:16px;
+    background-color: black;
+}
